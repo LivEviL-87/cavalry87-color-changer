@@ -28,6 +28,42 @@
 
 ## **📌 Дополнительная информация**  
 💻 **Совместимость**: Windows  
-🔧 **Требуется DURGOD-Engine**  
+🔧 **Требуется DURGOD-Engine (для экспорта/импорта профилей)**  
 
-🚀 **Приятного пользования!** 😃
+🚀 **Приятного пользования!** 😃  
+
+---
+
+# 🇺🇸 Cavalry87 Color Changer 🎨  
+
+A simple utility for changing the color profile of DURGOD Cavalry87 keyboards.  
+
+---
+
+## **🔹 How to use?**  
+
+1️⃣ **Export your profile** from **DURGOD-Engine**.  
+2️⃣ **Launch the program** and **select your profile**.  
+3️⃣ **Choose a color** (using any convenient method) and **apply the changes**.  
+4️⃣ **Import the profile back** into **DURGOD-Engine**.  
+5️⃣ **Select your profile** in DURGOD-Engine.  
+
+🎉 **Congratulations, you're awesome!** 🎉  
+
+---
+
+## **⚠ Important to know!**  
+
+🛑 **DURGOD-Engine resets the color if backlight settings are changed!**  
+- **Any backlight change in DURGOD-Engine** (e.g., mode or speed adjustments)  
+  👉 **breaks the profile and resets the color to green or white**.  
+- **BUT!** If you control the backlight **directly from the keyboard** (`FN + the corresponding key`),  
+  👉 **the color remains unchanged and is not reset**.  
+
+---
+
+## **📌 Additional Information**  
+💻 **Compatibility**: Windows  
+🔧 **Requires DURGOD-Engine (for profile export/import)**  
+
+🚀 **Enjoy using it!** 😃  
